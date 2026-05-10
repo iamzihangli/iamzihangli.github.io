@@ -60,5 +60,6 @@ My teaching centers on making economics accessible through active learning, remo
 
 I develop free interactive tools to replace expensive publisher subscriptions:
 
+- [Welfare Lab](/resources/#welfare-lab) — Interactive tariff and tax welfare-math sandbox for ECON 2020
 - [Tulip Bulb Investment Game](/resources/#tulip-bulb-investment-game) — Illustrates speculative bubbles and boundedly rational decision-making
 - [Prisoner's Dilemma Game](/resources/#prisoners-dilemma-game) — Teaches game theory and strategic interaction
