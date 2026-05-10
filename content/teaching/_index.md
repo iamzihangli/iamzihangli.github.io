@@ -8,6 +8,19 @@ TocOpen: true
 
 My teaching centers on making economics accessible through active learning, removing financial barriers for students, and preparing them for data-driven careers. My teaching evaluations improved 34% across core metrics from my first to most recent semester.
 
+## Continuous Improvement
+
+Each semester I introduce a concrete change to lower barriers to learning and replace passive lectures with hands-on tools. The cumulative effect is reflected in the steadily rising teaching evaluations below.
+
+### Spring 2024 — Tulip Bulb Investment Game
+Built a free, browser-based [Tulip Bulb Investment Game](/resources/#tulip-bulb-investment-game) for ECON 2030 (Macroeconomics) so students could experience speculative bubbles and boundedly rational decision-making firsthand instead of reading about them. Replaced an expensive publisher subscription.
+
+### Spring 2025 — Prisoner's Dilemma Game
+Developed an interactive [Prisoner's Dilemma Game](/resources/#prisoners-dilemma-game) for ECON 2020 (Microeconomics). Students play repeated rounds against classmates and the computer, observing strategic interaction and Nash equilibria emerge from their own choices.
+
+### Spring 2026 — Welfare Lab and Midterm Survey
+Built the [Welfare Lab](/resources/#welfare-lab), an interactive tariff and tax welfare-math sandbox where students manipulate market parameters and watch consumer surplus, producer surplus, and deadweight loss update in real time. Also conducted a midterm survey to identify pain points; **94% of respondents reported that the changes implemented in response to the survey helped them feel better prepared for exams**.
+
 ## Independent Instructor — Auburn University
 
 ### ECON 2020: Principles of Microeconomics
