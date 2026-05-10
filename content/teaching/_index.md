@@ -19,7 +19,38 @@ As part of the Biggio Center 2024 Summer Course (Re)Design Program, I built a fr
 Developed an interactive [Prisoner's Dilemma Game](/resources/#prisoners-dilemma-game) for ECON 2020 (Microeconomics). Students play repeated rounds against classmates and the computer, observing strategic interaction and Nash equilibria emerge from their own choices.
 
 ### 2026 Course (Re)Design — Welfare Lab and Midterm Survey
-As part of the Biggio Center 2026 Course (Re)Design Program, I built the [Welfare Lab](/resources/#welfare-lab), an interactive tariff and tax welfare-math sandbox where students manipulate market parameters and watch consumer surplus, producer surplus, and deadweight loss update in real time. The same semester I conducted a midterm survey to identify pain points; **94% of respondents reported that the changes implemented in response to the survey helped them feel better prepared for exams**.
+As part of the Biggio Center 2026 Course (Re)Design Program, I built the [Welfare Lab](/resources/#welfare-lab), an interactive tariff and tax welfare-math sandbox where students manipulate market parameters and watch consumer surplus, producer surplus, and deadweight loss update in real time. The same semester I introduced a multi-wave mid-semester survey system (4 waves, 42 total responses) to collect actionable feedback and adapt teaching in real time. After Midterm 1, students requested more practice problems and instructor-led problem-solving; I restructured the remaining sessions accordingly. The results:
+
+- **94%** of students were satisfied or very satisfied with the post-Midterm 1 changes
+- **78%** reported improved pacing
+- **56%** felt better prepared for exams (only 6% felt less prepared)
+- **100%** rated the additional practice problems and in-class solving as at least moderately helpful
+
+## Student Feedback
+
+> "Li, you are truly a fantastic professor. I would not wish to take economics with another lecturer… I have a newfound appreciation for the study of economics and the beauty of its logic."
+> — *Spring 2025, ECON 2020 (Microeconomics)*
+
+> "Zihang was the most wonderful TA I have ever had… He always answered questions, supported his students, and helped us to think critically about the material and our project. I imagine he will be an absolutely fantastic professor."
+> — *Fall 2025, ECON 4600 (Econometrics)*
+
+> "Mr. Li is a phenomenal teacher who really cares about each student's well being. While this is a very difficult course, he makes it fun to learn!"
+> — *Spring 2024, ECON 2030 (Macroeconomics)*
+
+> "Incredibly knowledgeable and easy to talk to… knew how to answer students' questions, even when the student had no idea what they were asking, providing feedback that removed prior doubts."
+> — *Fall 2024, ECON 4600 (Econometrics)*
+
+> "His teaching style really suited and engaged the class far more than the professor. I think he would be a great teacher. He was very patient and gave all of us his undivided attention."
+> — *Fall 2024, ECON 4600 (Econometrics)*
+
+> "A difficult course with ample amounts of help… has the gift of teaching, passionate about his job and it shows inside and outside the classroom. Genuinely wants students to learn the course and excel academically."
+> — *Fall 2025, ECON 4600 (Econometrics)*
+
+> "Gives plenty of practice problems and examples. I enjoy when you incorporate real news and events."
+> — *Spring 2026, ECON 2030 (Macroeconomics, mid-semester survey)*
+
+> "It is perfect."
+> — *Spring 2026, in response to "what additional changes would you like?"*
 
 ## Independent Instructor — Auburn University
 
