@@ -12,19 +12,22 @@ My teaching centers on making economics accessible through active learning, remo
 
 Each semester I introduce a concrete change to lower barriers to learning and replace passive lectures with hands-on tools. The cumulative effect is reflected in the steadily rising teaching evaluations below.
 
-### 2024 Course (Re)Design — Tulip Bulb Investment Game
-As part of the Biggio Center 2024 Summer Course (Re)Design Program, I built a free, browser-based [Tulip Bulb Investment Game](/resources/#tulip-bulb-investment-game) for ECON 2030 (Macroeconomics) so students could experience speculative bubbles and boundedly rational decision-making firsthand instead of reading about them. Replaced an expensive publisher subscription.
+### Summer 2024 — Tulip Bulb Investment Game (Biggio Center Course (Re)Design)
+As part of the Biggio Center Summer 2024 Course (Re)Design Program, I built a free, browser-based [Tulip Bulb Investment Game](/resources/#tulip-bulb-investment-game) for ECON 2030 (Macroeconomics) so students could experience speculative bubbles and boundedly rational decision-making firsthand instead of reading about them. Replaced an expensive publisher subscription.
 
 ### Spring 2025 — Prisoner's Dilemma Game
 Developed an interactive [Prisoner's Dilemma Game](/resources/#prisoners-dilemma-game) for ECON 2020 (Microeconomics). Students play repeated rounds against classmates and the computer, observing strategic interaction and Nash equilibria emerge from their own choices.
 
-### 2026 Course (Re)Design — Welfare Lab and Midterm Survey
-As part of the Biggio Center 2026 Course (Re)Design Program, I built the [Welfare Lab](/resources/#welfare-lab), an interactive tariff and tax welfare-math sandbox where students manipulate market parameters and watch consumer surplus, producer surplus, and deadweight loss update in real time. The same semester I introduced a multi-wave mid-semester survey system (4 waves, 42 total responses) to collect actionable feedback and adapt teaching in real time. After Midterm 1, students requested more practice problems and instructor-led problem-solving; I restructured the remaining sessions accordingly. The results:
+### Spring 2026 — Midterm Survey Innovation
+In Spring 2026 ECON 2030 (Macroeconomics), I introduced a multi-wave mid-semester survey system (4 waves, 42 total responses) to collect actionable feedback and adapt teaching in real time. After Midterm 1, students requested more practice problems and instructor-led problem-solving; I restructured the remaining sessions accordingly. The results:
 
 - **94%** of students were satisfied or very satisfied with the post-Midterm 1 changes
 - **78%** reported improved pacing
 - **56%** felt better prepared for exams (only 6% felt less prepared)
 - **100%** rated the additional practice problems and in-class solving as at least moderately helpful
+
+### Summer 2026 — Welfare Lab (Biggio Center Course (Re)Design)
+As part of the Biggio Center Summer 2026 Course (Re)Design Program, I built the [Welfare Lab](/resources/#welfare-lab), an interactive tariff and tax welfare-math sandbox where students manipulate market parameters and watch consumer surplus, producer surplus, and deadweight loss update in real time.
 
 ## Student Feedback
 
