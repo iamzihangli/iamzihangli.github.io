@@ -1,0 +1,66 @@
+.main {
+  animation: fadeIn 0.4s ease-in;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.footer {
+  border-top: 1px solid var(--border);
+  margin-top: 4rem;
+  padding: 2rem 0;
+  font-size: 0.85rem;
+  color: var(--secondary);
+}
+
+.footer span {
+  margin: 0;
+}
+
+::selection {
+  background: var(--accent-soft);
+  color: var(--accent-strong);
+}
+
+[data-theme="dark"] ::selection {
+  color: var(--primary);
+}
+
+.post-entry {
+  background: var(--entry);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.5rem 1.8rem;
+  margin-bottom: 1.2rem;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.post-entry:hover {
+  border-color: var(--accent);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.05);
+  transform: translateY(-2px);
+}
+
+.post-entry .entry-header h2 {
+  font-size: 1.3rem;
+  margin: 0 0 0.4rem;
+}
+
+.post-entry .entry-content p {
+  font-size: 0.95rem;
+  color: var(--secondary);
+  line-height: 1.6;
+  margin: 0;
+}
+
+.post-entry .entry-footer {
+  font-size: 0.85rem;
+  color: var(--secondary);
+  margin-top: 0.6rem;
+}
+
+.first-entry {
+  padding: 1.5rem 1.8rem;
+}

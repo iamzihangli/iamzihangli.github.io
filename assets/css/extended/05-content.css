@@ -1,0 +1,134 @@
+.page-header {
+  padding: 2.5rem 0 1.5rem;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 2rem;
+}
+
+.post-content > p,
+.post-content > ul,
+.post-content > ol,
+.post-content > blockquote {
+  max-width: 780px;
+}
+
+.post-content > .paper-card,
+.post-content > table,
+.post-content > .cv-embed,
+.post-content > .cv-download-btn,
+.post-content > h2,
+.post-content > h3 {
+  max-width: 100%;
+}
+
+.page-header h1 {
+  font-size: 2.2rem;
+  margin: 0;
+}
+
+.post-content h2 {
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 0.5rem;
+  margin-top: 3rem;
+}
+
+.post-content h2:first-of-type {
+  margin-top: 1.5rem;
+}
+
+.post-content h3 {
+  border-left: 3px solid var(--accent);
+  padding-left: 0.9rem;
+  margin-top: 2.2rem;
+  margin-bottom: 0.8rem;
+}
+
+.post-content blockquote {
+  border-left: 3px solid var(--accent);
+  background: var(--accent-soft);
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+  border-radius: 0 6px 6px 0;
+}
+
+.post-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+}
+
+.post-content table thead {
+  border-bottom: 2px solid var(--primary);
+}
+
+.post-content table th,
+.post-content table td {
+  padding: 0.7rem 1rem;
+  text-align: left;
+  border-bottom: 1px solid var(--border);
+}
+
+.post-content table th {
+  font-weight: 600;
+  color: var(--primary);
+  background: transparent;
+}
+
+.post-content table tbody tr:hover {
+  background: var(--accent-soft);
+}
+
+.post-content ul,
+.post-content ol {
+  padding-left: 1.5rem;
+}
+
+.post-content ul li {
+  margin: 0.4rem 0;
+}
+
+.post-content ul li::marker {
+  color: var(--accent);
+}
+
+details.toc {
+  background: var(--code-bg);
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0 2rem;
+}
+
+details.toc summary {
+  font-weight: 600;
+  color: var(--primary);
+  cursor: pointer;
+}
+
+details.toc ul {
+  font-size: 0.92rem;
+  margin-top: 0.6rem;
+}
+
+details.toc a {
+  color: var(--secondary);
+  text-decoration: none;
+}
+
+details.toc a:hover {
+  color: var(--accent);
+}
+
+.breadcrumbs {
+  font-size: 0.85rem;
+  color: var(--secondary);
+  margin-bottom: 0.5rem;
+}
+
+.breadcrumbs a {
+  color: var(--secondary);
+}
+
+.breadcrumbs a:hover {
+  color: var(--accent);
+}

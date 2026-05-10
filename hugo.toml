@@ -1,0 +1,99 @@
+baseURL = "https://zihangli.com/"
+locale = "en-us"
+title = "Zihang Li"
+theme = "PaperMod"
+paginate = 10
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[params]
+  env = "production"
+  author = "Zihang Li"
+  description = "Zihang Li - PhD Candidate in Applied Economics at Auburn University. Research in Health Economics, Industrial Organization, and Applied Microeconomics."
+  keywords = ["economics", "health economics", "industrial organization", "applied microeconomics", "Auburn University"]
+
+  defaultTheme = "auto"
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  TocOpen = false
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:zzl0134@auburn.edu"
+  [[params.socialIcons]]
+    name = "cv"
+    url = "/cv/cv.pdf"
+
+  [params.profileMode]
+    enabled = true
+    title = "Zihang Li"
+    subtitle = """PhD Candidate in Applied Economics | Auburn University
+
+Health Economics · Industrial Organization · Applied Microeconomics · Financial Economics"""
+    imageUrl = "/images/profile.jpg"
+    imageWidth = 200
+    imageHeight = 200
+    imageTitle = "Zihang Li"
+
+    [[params.profileMode.buttons]]
+      name = "Research"
+      url = "/research/"
+    [[params.profileMode.buttons]]
+      name = "Teaching"
+      url = "/teaching/"
+    [[params.profileMode.buttons]]
+      name = "CV"
+      url = "/cv/"
+    [[params.profileMode.buttons]]
+      name = "Blog"
+      url = "/blog/"
+
+  [params.cover]
+    hidden = true
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    identifier = "research"
+    name = "Research"
+    url = "/research/"
+    weight = 20
+  [[menu.main]]
+    identifier = "teaching"
+    name = "Teaching"
+    url = "/teaching/"
+    weight = 30
+  [[menu.main]]
+    identifier = "cv"
+    name = "CV"
+    url = "/cv/"
+    weight = 40
+  [[menu.main]]
+    identifier = "resources"
+    name = "Resources"
+    url = "/resources/"
+    weight = 50
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 60
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

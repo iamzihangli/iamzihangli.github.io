@@ -1,0 +1,35 @@
+:root {
+  --main-width: 1080px;
+  --nav-width: 1180px;
+  --gap: 28px;
+  --content-gap: 22px;
+  --radius: 10px;
+
+  --accent: #1e6091;
+  --accent-soft: rgba(30, 96, 145, 0.08);
+  --accent-strong: #144668;
+
+  --primary: rgb(20, 22, 28);
+  --secondary: rgb(95, 102, 115);
+  --tertiary: rgb(228, 232, 238);
+  --content: rgb(38, 42, 52);
+  --border: rgb(228, 232, 238);
+  --code-bg: rgb(245, 247, 250);
+  --theme: rgb(255, 255, 255);
+  --entry: rgb(252, 253, 255);
+}
+
+:root[data-theme="dark"] {
+  --accent: #6aa9d6;
+  --accent-soft: rgba(106, 169, 214, 0.10);
+  --accent-strong: #9ec7e6;
+
+  --primary: rgb(228, 230, 235);
+  --secondary: rgb(155, 162, 175);
+  --tertiary: rgb(58, 62, 72);
+  --content: rgb(204, 208, 216);
+  --border: rgb(50, 54, 62);
+  --code-bg: rgb(40, 43, 50);
+  --theme: rgb(22, 24, 28);
+  --entry: rgb(30, 32, 38);
+}
