@@ -13,13 +13,13 @@ My teaching centers on making economics accessible through active learning, remo
 Each semester I introduce a concrete change to lower barriers to learning and replace passive lectures with hands-on tools. The cumulative effect is reflected in the steadily rising teaching evaluations below.
 
 ### Summer 2024 — Tulip Bulb Investment Game (Biggio Center Course (Re)Design)
-As part of the Biggio Center Summer 2024 Course (Re)Design Program, I built a free, browser-based [Tulip Bulb Investment Game](/resources/#tulip-bulb-investment-game) for ECON 2030 (Macroeconomics) so students could experience speculative bubbles and boundedly rational decision-making firsthand instead of reading about them. Replaced an expensive publisher subscription.
+As part of the Biggio Center Summer 2024 Course (Re)Design Program, I built a free, browser-based [Tulip Bulb Investment Game](/resources/#tulip-bulb-investment-game) for ECON 2030 (Principles of Macroeconomics) so students could experience speculative bubbles and boundedly rational decision-making firsthand instead of reading about them. Replaced an expensive publisher subscription.
 
 ### Spring 2025 — Prisoner's Dilemma Game
-Developed an interactive [Prisoner's Dilemma Game](/resources/#prisoners-dilemma-game) for ECON 2020 (Microeconomics). Students play repeated rounds against classmates and the computer, observing strategic interaction and Nash equilibria emerge from their own choices.
+Developed an interactive [Prisoner's Dilemma Game](/resources/#prisoners-dilemma-game) for ECON 2020 (Principles of Microeconomics). Students play repeated rounds against classmates and the computer, observing strategic interaction and Nash equilibria emerge from their own choices.
 
 ### Spring 2026 — Midterm Survey Innovation
-In Spring 2026 ECON 2030 (Macroeconomics), I introduced a multi-wave mid-semester survey system (4 waves, 42 total responses) to collect actionable feedback and adapt teaching in real time. After Midterm 1, students requested more practice problems and instructor-led problem-solving; I restructured the remaining sessions accordingly. The results:
+In Spring 2026 ECON 2030 (Principles of Macroeconomics), I introduced a multi-wave mid-semester survey system (4 waves, 42 total responses) to collect actionable feedback and adapt teaching in real time. After Midterm 1, students requested more practice problems and instructor-led problem-solving; I restructured the remaining sessions accordingly. The results:
 
 - **94%** of students were satisfied or very satisfied with the post-Midterm 1 changes
 - **78%** reported improved pacing
@@ -32,13 +32,13 @@ As part of the Biggio Center Summer 2026 Course (Re)Design Program, I built the 
 ## Student Feedback
 
 > "Li, you are truly a fantastic professor. I would not wish to take economics with another lecturer… I have a newfound appreciation for the study of economics and the beauty of its logic."
-> — *Spring 2025, ECON 2020 (Microeconomics)*
+> — *Spring 2025, ECON 2020 (Principles of Microeconomics)*
 
 > "Zihang was the most wonderful TA I have ever had… He always answered questions, supported his students, and helped us to think critically about the material and our project. I imagine he will be an absolutely fantastic professor."
 > — *Fall 2025, ECON 4600 (Econometrics)*
 
 > "Mr. Li is a phenomenal teacher who really cares about each student's well being. While this is a very difficult course, he makes it fun to learn!"
-> — *Spring 2024, ECON 2030 (Macroeconomics)*
+> — *Spring 2024, ECON 2030 (Principles of Macroeconomics)*
 
 > "Incredibly knowledgeable and easy to talk to… knew how to answer students' questions, even when the student had no idea what they were asking, providing feedback that removed prior doubts."
 > — *Fall 2024, ECON 4600 (Econometrics)*
