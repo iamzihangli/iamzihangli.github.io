@@ -96,7 +96,7 @@ Difference-in-differences, triple-difference, and Poisson DID on Chinese pharmac
 
 **Open release (coming soon):** The minimum viable product will be released free and open-source on [GitHub](https://github.com/iamzihangli) and [Hugging Face](https://huggingface.co/). I welcome anyone to try it out and share feedback — early input from educators, clinicians, and students will directly shape the next iteration.
 
-**Planned extension.** Building on this proposal, I am developing a complementary teaching tool in collaboration with the Department of *Special Education, Rehabilitation, and Counseling* at Auburn University. The goal is to help students bridge the gap between textbook knowledge and real-life practice by letting them rehearse counseling and rehabilitation scenarios with AI-driven virtual clients in a controlled, low-stakes environment before working with real populations.
+**Planned extension.** Building on this proposal, I am developing a complementary teaching tool in collaboration with the Departments of *Special Education, Rehabilitation, and Counseling* and *Psychological Sciences* at Auburn University. The goal is to help students bridge the gap between textbook knowledge and real-life practice by letting them rehearse counseling, rehabilitation, and clinical scenarios with AI-driven virtual clients in a controlled, low-stakes environment before working with real populations.
 
 </div>
 
