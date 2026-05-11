@@ -40,6 +40,38 @@
   padding-left: 0.9rem;
   margin-top: 2.2rem;
   margin-bottom: 0.8rem;
+  margin-left: 0.5rem;
+}
+
+.post-content h4 {
+  margin-left: 1.8rem;
+  color: var(--primary);
+  margin-top: 1.4rem;
+  margin-bottom: 0.5rem;
+}
+
+.post-content > p,
+.post-content > blockquote,
+.post-content > .paper-card,
+.post-content > details:not(.toc) {
+  margin-left: 1.4rem;
+}
+
+.post-content > ul,
+.post-content > ol {
+  padding-left: 2.6rem;
+}
+
+.post-content h3 + p,
+.post-content h3 + ul,
+.post-content h3 + ol,
+.post-content h3 + blockquote,
+.post-content h3 + .paper-card {
+  margin-top: 0.5rem;
+}
+
+.post-content h2 + h3 {
+  margin-top: 1.4rem;
 }
 
 .post-content blockquote {
@@ -78,9 +110,13 @@
   background: var(--accent-soft);
 }
 
-.post-content ul,
-.post-content ol {
-  padding-left: 1.5rem;
+.post-content ul ul,
+.post-content ol ol,
+.post-content ul ol,
+.post-content ol ul {
+  padding-left: 1.8rem;
+  margin-top: 0.3rem;
+  margin-bottom: 0.3rem;
 }
 
 .post-content ul li {
