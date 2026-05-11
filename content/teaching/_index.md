@@ -110,3 +110,8 @@ I develop free interactive tools to replace expensive publisher subscriptions:
 - [Welfare Lab](/resources/#welfare-lab) — Interactive tariff and tax welfare-math sandbox for ECON 2020
 - [Tulip Bulb Investment Game](/resources/#tulip-bulb-investment-game) — Illustrates speculative bubbles and boundedly rational decision-making
 - [Prisoner's Dilemma Game](/resources/#prisoners-dilemma-game) — Teaches game theory and strategic interaction
+
+## Service & Outreach
+
+### Aris Education Foundation — Pro Bono Website Feedback
+Provided feedback and consultation, free of charge, on the design and development of the [Aris Education Foundation](https://arisheducationfoundation.org) website. The foundation supports educational opportunities for children with disabilities in underserved rural communities in India through infrastructure grants, learning materials, teacher training, and scholarships.
