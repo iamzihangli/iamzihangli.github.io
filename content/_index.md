@@ -21,4 +21,4 @@ I am currently on the **2025--2026 academic job market**.
 
 - **Email:** [zzl0134@auburn.edu](mailto:zzl0134@auburn.edu)
 - **Office:** 106-D Miller Hall, Auburn, AL 36849
-- **Affiliation:** [Auburn University Health Economics Research Group](https://cla.auburn.edu/economics/health-economics/)
+- **Affiliation:** [Auburn University Health Economics Research Group (AUHERG)](https://sites.google.com/view/auherg/auherg)

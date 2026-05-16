@@ -15,7 +15,7 @@ My research uses quasi-experimental methods to study how regulatory and insuranc
 
 **Permanent Continuous Eligibility and Psychiatric Medication Channeling for Children at the Medicaid–CHIP Threshold**
 
-*Sole-authored. Preparing for submission to* Health Economics.
+*Sole-authored. Preparing for submission to* Journal of Health Economics.
 
 <div class="paper-meta">
 <span class="paper-tag">Medicaid &amp; CHIP</span>
@@ -57,6 +57,35 @@ First regression-discontinuity evidence on treatment-composition effects at the 
 Difference-in-differences, triple-difference, and Poisson DID on Chinese pharmaceutical patent data (2015–2021). We identify significant positive effects of the 2016 MAH deregulation on patent authorizations, backward citations, and patent claims for non-Traditional Chinese Medicine companies, with no significant effects for TCM firms.
 
 </details>
+
+</div>
+
+<div class="paper-card">
+
+**Adverse Childhood Experiences and Co-occurring Physical–Mental Health Conditions in U.S. Children: Evidence from the National Survey of Children's Health**
+
+*With Sanket Kanekar.*
+*Preparing for submission to* npj Mental Health Research *(Nature Portfolio Call for Papers: Adverse Childhood Experiences).*
+
+<div class="paper-meta">
+<span class="paper-tag">Adverse Childhood Experiences</span>
+<span class="paper-tag">Child Mental &amp; Physical Health</span>
+<span class="paper-tag">Multinomial Logistic Regression</span>
+<span class="paper-tag">NSCH</span>
+</div>
+
+<details>
+<summary>Abstract</summary>
+
+Most ACE studies look at mental and physical outcomes one at a time, hiding the comorbidity patterns clinicians actually see. Using the 2022–2024 National Survey of Children's Health (*N* = 151,531; pooled 2017–2024 *N* = 318,866), we classify children into four groups — no conditions, physical only, mental only, and co-occurring — and run survey-weighted multinomial logistic regressions with a 9-item ACE score that excludes disability discrimination to avoid reverse causality.
+
+Children with four or more ACEs show a nearly tenfold elevation in co-occurring risk (RRR = 9.77), substantially higher than mental-only (7.43) and physical-only (1.90). The Relative Excess Risk due to Interaction (RERI) is positive and significant at every ACE level, indicating that co-occurring conditions exceed what one would expect from adding physical and mental risks independently. Financial hardship and household mental illness are the ACE types most strongly tied to the co-occurring profile, with results replicating in pooled 2017–2024 data and holding across alternative outcome definitions, ACE specifications, and demographic subgroups. The findings suggest ACEs activate shared vulnerabilities spanning both health domains and that screening and treatment should address physical and mental health simultaneously.
+
+</details>
+
+<div class="paper-links">
+<a href="mailto:zzl0134@auburn.edu">Draft available upon request</a>
+</div>
 
 </div>
 
