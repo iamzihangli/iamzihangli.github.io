@@ -12,11 +12,11 @@ My teaching centers on making economics accessible through active learning, remo
 
 Each semester I introduce a concrete change to lower barriers to learning and replace passive lectures with hands-on tools. The cumulative effect is reflected in the steadily rising teaching evaluations below.
 
-### Summer 2024 — Tulip Bulb Investment Game (Biggio Center Course (Re)Design)
-As part of the Biggio Center Summer 2024 Course (Re)Design Program, I built a free, browser-based [Tulip Bulb Investment Game](/resources/#tulip-bulb-investment-game) for ECON 2030 (Principles of Macroeconomics) so students could experience speculative bubbles and boundedly rational decision-making firsthand instead of reading about them. Replaced an expensive publisher subscription.
+### Summer 2026 — Tulip Bulb Investment Game v2
+Released a major rewrite of the [Tulip Bulb Investment Game](/resources/#tulip-bulb-investment-game). V2 adds five historical bubble scenarios (Tulip Mania, South Sea Bubble, Florida Land Boom, Dot-com Bubble, Crypto Mania), full Buy / Sell / Hold trading with quantities, an inflation-adjusted Future-Value vs Present-Value breakdown, and a closing reflection that connects the simulation to today's AI valuations.
 
-### Spring 2025 — Prisoner's Dilemma Game
-Developed an interactive [Prisoner's Dilemma Game](/resources/#prisoners-dilemma-game) for ECON 2020 (Principles of Microeconomics). Students play repeated rounds against classmates and the computer, observing strategic interaction and Nash equilibria emerge from their own choices.
+### Summer 2026 — Welfare Lab (Biggio Center Course (Re)Design)
+As part of the Biggio Center Summer 2026 Course (Re)Design Program, I built the [Welfare Lab](/resources/#welfare-lab), an interactive tariff and tax welfare-math sandbox where students manipulate market parameters and watch consumer surplus, producer surplus, and deadweight loss update in real time.
 
 ### Spring 2026 — Midterm Survey Innovation
 In Spring 2026 ECON 2030 (Principles of Macroeconomics), I introduced a multi-wave mid-semester survey system (4 waves, 42 total responses) to collect actionable feedback and adapt teaching in real time. After Midterm 1, students requested more practice problems and instructor-led problem-solving; I restructured the remaining sessions accordingly. The results:
@@ -26,11 +26,11 @@ In Spring 2026 ECON 2030 (Principles of Macroeconomics), I introduced a multi-wa
 - **56%** felt better prepared for exams (only 6% felt less prepared)
 - **100%** rated the additional practice problems and in-class solving as at least moderately helpful
 
-### Summer 2026 — Welfare Lab (Biggio Center Course (Re)Design)
-As part of the Biggio Center Summer 2026 Course (Re)Design Program, I built the [Welfare Lab](/resources/#welfare-lab), an interactive tariff and tax welfare-math sandbox where students manipulate market parameters and watch consumer surplus, producer surplus, and deadweight loss update in real time.
+### Spring 2025 — Prisoner's Dilemma Game
+Developed an interactive [Prisoner's Dilemma Game](/resources/#prisoners-dilemma-game) for ECON 2020 (Principles of Microeconomics). Students play repeated rounds against classmates and the computer, observing strategic interaction and Nash equilibria emerge from their own choices.
 
-### Summer 2026 — Tulip Bulb Investment Game v2
-Released a major rewrite of the [Tulip Bulb Investment Game](/resources/#tulip-bulb-investment-game). V2 adds five historical bubble scenarios (Tulip Mania, South Sea Bubble, Florida Land Boom, Dot-com Bubble, Crypto Mania), full Buy / Sell / Hold trading with quantities, an inflation-adjusted Future-Value vs Present-Value breakdown, and a closing reflection that connects the simulation to today's AI valuations.
+### Summer 2024 — Tulip Bulb Investment Game (Biggio Center Course (Re)Design)
+As part of the Biggio Center Summer 2024 Course (Re)Design Program, I built a free, browser-based [Tulip Bulb Investment Game](/resources/#tulip-bulb-investment-game) for ECON 2030 (Principles of Macroeconomics) so students could experience speculative bubbles and boundedly rational decision-making firsthand instead of reading about them. Replaced an expensive publisher subscription.
 
 ## Student Feedback
 

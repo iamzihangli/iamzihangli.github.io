@@ -114,17 +114,6 @@
   box-shadow: 0 4px 12px rgba(30, 96, 145, 0.25);
 }
 
-.profile_text .button:first-child {
-  background: var(--accent);
-  color: white;
-  border-color: var(--accent);
-}
-
-.profile_text .button:first-child:hover {
-  background: var(--accent-strong);
-  border-color: var(--accent-strong);
-}
-
 .home-bio {
   max-width: var(--main-width);
   margin: 0 auto;
