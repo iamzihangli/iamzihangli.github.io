@@ -29,6 +29,9 @@ In Spring 2026 ECON 2030 (Principles of Macroeconomics), I introduced a multi-wa
 ### Summer 2026 — Welfare Lab (Biggio Center Course (Re)Design)
 As part of the Biggio Center Summer 2026 Course (Re)Design Program, I built the [Welfare Lab](/resources/#welfare-lab), an interactive tariff and tax welfare-math sandbox where students manipulate market parameters and watch consumer surplus, producer surplus, and deadweight loss update in real time.
 
+### Summer 2026 — Tulip Bulb Investment Game v2
+Released a major rewrite of the [Tulip Bulb Investment Game](/resources/#tulip-bulb-investment-game). V2 adds five historical bubble scenarios (Tulip Mania, South Sea Bubble, Florida Land Boom, Dot-com Bubble, Crypto Mania), full Buy / Sell / Hold trading with quantities, an inflation-adjusted Future-Value vs Present-Value breakdown, and a closing reflection that connects the simulation to today's AI valuations.
+
 ## Student Feedback
 
 > "Li, you are truly a fantastic professor. I would not wish to take economics with another lecturer… I have a newfound appreciation for the study of economics and the beauty of its logic."
