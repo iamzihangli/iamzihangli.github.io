@@ -18,7 +18,7 @@ An interactive tariff and tax welfare-math sandbox built for ECON 2020. Students
 
 Interactive simulation illustrating speculative bubbles and boundedly rational decision-making, with applications to behavioral economics and behavioral finance. **Version 2** adds five historical bubble scenarios (Tulip Mania, South Sea Bubble, Florida Land Boom, Dot-com Bubble, Crypto Mania), full Buy / Sell / Hold trading with quantities, an inflation-adjusted Future-Value vs Present-Value breakdown, and a closing reflection connecting the game to today's AI valuations.
 
-[**▸ Launch Tulip Bulb Game v2**](https://zihangli.com/tulipbulbgame/v2/) · [Source on GitHub](https://github.com/iamzihangli/tulipbulbgame) · [Original v1](https://zihangli.com/tulipbulbgame/)
+[**▸ Launch Tulip Bulb Game**](https://zihangli.com/tulipbulbgame/) · [Source on GitHub](https://github.com/iamzihangli/tulipbulbgame) · [Original v1](https://zihangli.com/tulipbulbgame/v1/)
 
 ## Prisoner's Dilemma Game
 
