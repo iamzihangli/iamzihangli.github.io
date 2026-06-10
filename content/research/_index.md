@@ -31,6 +31,7 @@ First regression-discontinuity evidence on treatment-composition effects at the 
 </details>
 
 <div class="paper-links">
+<a href="/posters/ashecon-2026-poster.pdf">ASHEcon 2026 Poster</a>
 <a href="mailto:zzl0134@auburn.edu">Draft available upon request</a>
 </div>
 
@@ -134,7 +135,7 @@ Children with four or more ACEs show a nearly tenfold elevation in co-occurring 
 | Date | Conference | Location |
 |------|-----------|----------|
 | July 2026 | Western Economic Association International (forthcoming) | Denver, CO |
-| June 2026 | American Society of Health Economists (forthcoming) | Minneapolis, MN |
+| June 2026 | American Society of Health Economists ([poster](/posters/ashecon-2026-poster.pdf)) | Minneapolis, MN |
 | Nov. 2025 | Southern Economic Association | Tampa, FL |
 | June 2025 | Western Economic Association International | San Francisco, CA |
 | Nov. 2024 | Southern Economic Association | Washington, DC |

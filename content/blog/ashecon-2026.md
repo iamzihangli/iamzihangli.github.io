@@ -8,3 +8,5 @@ tags: ["conference", "health economics"]
 I am excited to announce that I will be presenting my job market paper, "Permanent Continuous Eligibility and Psychiatric Medication Channeling for Children at the Medicaid--CHIP Threshold," at the **American Society of Health Economists (ASHEcon) Conference** in Minneapolis, MN in June 2026.
 
 The paper provides the first regression-discontinuity evidence on treatment-composition effects at the Medicaid--CHIP income threshold. I look forward to receiving feedback from the health economics community.
+
+**Update (June 2026):** The poster I presented at the conference is now available — [download the poster (PDF)](/posters/ashecon-2026-poster.pdf).
