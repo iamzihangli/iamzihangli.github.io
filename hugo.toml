@@ -37,7 +37,7 @@ buildExpired = false
     subtitle = """PhD Candidate in Applied Economics | Auburn University
 
 Health Economics · Industrial Organization · Applied Microeconomics · Financial Economics"""
-    imageUrl = "/images/profile.jpg"
+    imageUrl = "/images/1x1.jpg"
     imageWidth = 200
     imageHeight = 200
     imageTitle = "Zihang Li"
