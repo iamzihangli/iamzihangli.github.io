@@ -28,6 +28,6 @@ Interactive game teaching game theory and strategic interaction under market com
 
 ## Other Resources
 
-- [Auburn University Health Economics Research Group](https://cla.auburn.edu/economics/health-economics/)
+- [Auburn University Health Economics Research Group](https://sites.google.com/view/auherg/auherg)
 - [Department of Economics, Auburn University](https://cla.auburn.edu/economics/)
 - [My GitHub Profile](https://github.com/iamzihangli)
