@@ -13,9 +13,9 @@ My research uses quasi-experimental methods to study how regulatory and insuranc
 <div class="paper-card jmp">
 <span class="jmp-badge">Job Market Paper</span>
 
-**Permanent Continuous Eligibility and Psychiatric Medication Channeling for Children at the Medicaid–CHIP Threshold**
+**Treatment-Composition Discontinuities at the Medicaid–CHIP Eligibility Threshold: Evidence from Children's Behavioral Health Care**
 
-*Sole-authored. Preparing for submission to* Journal of Health Economics.
+*Sole-authored. Submitted to* American Journal of Health Economics.
 
 <div class="paper-meta">
 <span class="paper-tag">Medicaid &amp; CHIP</span>
