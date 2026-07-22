@@ -61,7 +61,7 @@ As part of the Biggio Center Summer 2024 Course (Re)Design Program, I built a fr
 ## Independent Instructor — Auburn University
 
 ### ECON 2020: Principles of Microeconomics
-- **Semesters:** Fall 2023, Spring 2025, Summer 2026 (planned)
+- **Semesters:** Fall 2023, Spring 2025, Summer 2026
 - **Evaluations:** Improved from 4.37/6.0 to 5.33/6.0
 - Full course responsibility: curriculum design, syllabus development, assessment, and grading (AACSB accredited)
 

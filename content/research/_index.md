@@ -134,7 +134,7 @@ Children with four or more ACEs show a nearly tenfold elevation in co-occurring 
 
 | Date | Conference | Location |
 |------|-----------|----------|
-| July 2026 | Western Economic Association International (forthcoming) | Denver, CO |
+| July 2026 | Western Economic Association International | Denver, CO |
 | June 2026 | American Society of Health Economists ([poster](/posters/ashecon-2026-poster.pdf)) | Minneapolis, MN |
 | Nov. 2025 | Southern Economic Association | Tampa, FL |
 | June 2025 | Western Economic Association International | San Francisco, CA |

@@ -2,7 +2,6 @@ baseURL = "https://zihangli.com/"
 locale = "en-us"
 title = "Zihang Li"
 theme = "PaperMod"
-paginate = 10
 
 enableRobotsTXT = true
 buildDrafts = false
@@ -97,3 +96,6 @@ Health Economics · Industrial Organization · Applied Microeconomics · Financi
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[pagination]
+  pagerSize = 10
