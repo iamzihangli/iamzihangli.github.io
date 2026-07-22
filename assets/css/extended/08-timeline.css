@@ -1,0 +1,144 @@
+.conf-timeline {
+  margin: 1.6rem 0 1rem;
+  padding-left: 1.4rem;
+  border-left: 2px solid var(--border);
+}
+
+.post-content > .conf-timeline {
+  max-width: 100%;
+  margin-left: 1.4rem;
+}
+
+.conf-item {
+  position: relative;
+  display: grid;
+  grid-template-columns: 6.6rem 1fr auto;
+  align-items: center;
+  gap: 0.2rem 1.1rem;
+  padding: 0.7rem 0.9rem;
+  border-radius: 8px;
+  transition: background 0.18s ease;
+}
+
+.conf-item + .conf-item {
+  border-top: 1px solid var(--border);
+}
+
+.conf-item > * {
+  min-width: 0;
+}
+
+.conf-item::before {
+  content: "";
+  position: absolute;
+  left: calc(-1.4rem - 7.5px);
+  top: 50%;
+  width: 13px;
+  height: 13px;
+  box-sizing: border-box;
+  margin-top: -6.5px;
+  border-radius: 50%;
+  background: var(--theme);
+  border: 2px solid var(--border);
+  transition: background 0.18s ease, border-color 0.18s ease;
+}
+
+.conf-item--presenter::before {
+  background: var(--accent);
+  border-color: var(--accent);
+}
+
+.conf-item:hover {
+  background: var(--accent-soft);
+}
+
+.conf-item:hover::before {
+  border-color: var(--accent);
+}
+
+.conf-date {
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: var(--secondary);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.conf-body {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+  min-width: 0;
+}
+
+.conf-name {
+  color: var(--primary);
+  font-weight: 500;
+  font-size: 0.98rem;
+  line-height: 1.45;
+  overflow-wrap: anywhere;
+}
+
+.conf-venue {
+  color: var(--secondary);
+  font-size: 0.85rem;
+  line-height: 1.5;
+}
+
+.post-content .conf-venue a {
+  color: var(--accent);
+}
+
+.conf-role {
+  justify-self: end;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  padding: 0.2rem 0.6rem;
+  border-radius: 4px;
+  background: var(--code-bg);
+  color: var(--secondary);
+  border: 1px solid var(--border);
+  white-space: nowrap;
+}
+
+.conf-role--presenter {
+  background: var(--accent-soft);
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+@media (max-width: 640px) {
+  .post-content > .conf-timeline {
+    margin-left: 0;
+    max-width: 100%;
+    padding-left: 1rem;
+  }
+
+  .conf-item::before {
+    left: calc(-1rem - 7.5px);
+  }
+
+  .conf-item {
+    grid-template-columns: 1fr auto;
+    row-gap: 0.35rem;
+    padding: 0.8rem 0.6rem;
+  }
+
+  .conf-date {
+    grid-column: 1;
+    grid-row: 1;
+  }
+
+  .conf-role {
+    grid-column: 2;
+    grid-row: 1;
+  }
+
+  .conf-body {
+    grid-column: 1 / -1;
+    grid-row: 2;
+  }
+}

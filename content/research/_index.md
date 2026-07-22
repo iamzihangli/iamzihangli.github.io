@@ -132,18 +132,70 @@ Children with four or more ACEs show a nearly tenfold elevation in co-occurring 
 
 ## Conference and Seminar Experience
 
-| Date | Role | Conference | Location |
-|------|------|-----------|----------|
-| July 2026 | Attendee | Alabama Higher Education AI Exchange: Classroom to Career, Auburn University | Auburn, AL |
-| July 2026 | Presenter | Western Economic Association International | Denver, CO |
-| June 2026 | Presenter | American Society of Health Economists ([poster](/posters/ashecon-2026-poster.pdf)) | Minneapolis, MN |
-| Mar. 2026 | Attendee | ACS-CAN Cancer Research Symposium | Montgomery, AL |
-| Mar. 2026 | Attendee | Montgomery.AI | Montgomery, AL |
-| Nov. 2025 | Presenter | Southern Economic Association | Tampa, FL |
-| Oct. 2025 | Contestant | Magic City Classic Business Pitch Competition | Birmingham, AL |
-| June 2025 | Presenter | Western Economic Association International | San Francisco, CA |
-| May 2025 | Attendee | XR Summit 2025 | Auburn, AL |
-| Nov. 2024 | Presenter | Southern Economic Association | Washington, DC |
-| Oct. 2024 | Presenter | Three-Minute Thesis (3MT) | Auburn, AL |
-| Sept. 2024 | Presenter | Outreach and Engaged Scholarship Symposium | Auburn, AL |
-| Nov. 2023 | Attendee | Southern Economic Association | New Orleans, LA |
+<div class="conf-timeline">
+<div class="conf-item">
+<span class="conf-date">July 2026</span>
+<span class="conf-body"><span class="conf-name">Alabama Higher Education AI Exchange: Classroom to Career</span><span class="conf-venue">Auburn University &middot; Auburn, AL</span></span>
+<span class="conf-role">Attendee</span>
+</div>
+<div class="conf-item conf-item--presenter">
+<span class="conf-date">July 2026</span>
+<span class="conf-body"><span class="conf-name">Western Economic Association International Meeting</span><span class="conf-venue">Denver, CO</span></span>
+<span class="conf-role conf-role--presenter">Presenter</span>
+</div>
+<div class="conf-item conf-item--presenter">
+<span class="conf-date">June 2026</span>
+<span class="conf-body"><span class="conf-name">American Society of Health Economists (ASHEcon) Conference</span><span class="conf-venue">Minneapolis, MN &middot; <a href="/posters/ashecon-2026-poster.pdf">Poster (PDF)</a></span></span>
+<span class="conf-role conf-role--presenter">Presenter</span>
+</div>
+<div class="conf-item">
+<span class="conf-date">Mar. 2026</span>
+<span class="conf-body"><span class="conf-name">ACS-CAN Cancer Research Symposium</span><span class="conf-venue">Montgomery, AL</span></span>
+<span class="conf-role">Attendee</span>
+</div>
+<div class="conf-item">
+<span class="conf-date">Mar. 2026</span>
+<span class="conf-body"><span class="conf-name">Montgomery.AI</span><span class="conf-venue">Montgomery, AL</span></span>
+<span class="conf-role">Attendee</span>
+</div>
+<div class="conf-item conf-item--presenter">
+<span class="conf-date">Nov. 2025</span>
+<span class="conf-body"><span class="conf-name">Southern Economic Association Meeting</span><span class="conf-venue">Tampa, FL</span></span>
+<span class="conf-role conf-role--presenter">Presenter</span>
+</div>
+<div class="conf-item">
+<span class="conf-date">Oct. 2025</span>
+<span class="conf-body"><span class="conf-name">Magic City Classic Business Pitch Competition</span><span class="conf-venue">Birmingham, AL</span></span>
+<span class="conf-role">Contestant</span>
+</div>
+<div class="conf-item conf-item--presenter">
+<span class="conf-date">June 2025</span>
+<span class="conf-body"><span class="conf-name">Western Economic Association International Meeting</span><span class="conf-venue">San Francisco, CA</span></span>
+<span class="conf-role conf-role--presenter">Presenter</span>
+</div>
+<div class="conf-item">
+<span class="conf-date">May 2025</span>
+<span class="conf-body"><span class="conf-name">XR Summit 2025</span><span class="conf-venue">Auburn, AL</span></span>
+<span class="conf-role">Attendee</span>
+</div>
+<div class="conf-item conf-item--presenter">
+<span class="conf-date">Nov. 2024</span>
+<span class="conf-body"><span class="conf-name">Southern Economic Association Meeting</span><span class="conf-venue">Washington, DC</span></span>
+<span class="conf-role conf-role--presenter">Presenter</span>
+</div>
+<div class="conf-item conf-item--presenter">
+<span class="conf-date">Oct. 2024</span>
+<span class="conf-body"><span class="conf-name">Three-Minute Thesis (3MT)</span><span class="conf-venue">Auburn, AL</span></span>
+<span class="conf-role conf-role--presenter">Presenter</span>
+</div>
+<div class="conf-item conf-item--presenter">
+<span class="conf-date">Sept. 2024</span>
+<span class="conf-body"><span class="conf-name">Outreach and Engaged Scholarship Symposium</span><span class="conf-venue">Auburn, AL</span></span>
+<span class="conf-role conf-role--presenter">Presenter</span>
+</div>
+<div class="conf-item">
+<span class="conf-date">Nov. 2023</span>
+<span class="conf-body"><span class="conf-name">Southern Economic Association Meeting</span><span class="conf-venue">New Orleans, LA</span></span>
+<span class="conf-role">Attendee</span>
+</div>
+</div>
