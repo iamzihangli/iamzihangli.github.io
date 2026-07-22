@@ -130,14 +130,20 @@ Children with four or more ACEs show a nearly tenfold elevation in co-occurring 
 
 </div>
 
-## Conference Presentations
+## Conference and Seminar Experience
 
-| Date | Conference | Location |
-|------|-----------|----------|
-| July 2026 | Western Economic Association International | Denver, CO |
-| June 2026 | American Society of Health Economists ([poster](/posters/ashecon-2026-poster.pdf)) | Minneapolis, MN |
-| Nov. 2025 | Southern Economic Association | Tampa, FL |
-| June 2025 | Western Economic Association International | San Francisco, CA |
-| Nov. 2024 | Southern Economic Association | Washington, DC |
-| Oct. 2024 | Three-Minute Thesis (3MT) | Auburn, AL |
-| Sept. 2024 | Outreach and Engaged Scholarship Symposium | Auburn, AL |
+| Date | Role | Conference | Location |
+|------|------|-----------|----------|
+| July 2026 | Attendee | Alabama Higher Education AI Exchange: Classroom to Career, Auburn University | Auburn, AL |
+| July 2026 | Presenter | Western Economic Association International | Denver, CO |
+| June 2026 | Presenter | American Society of Health Economists ([poster](/posters/ashecon-2026-poster.pdf)) | Minneapolis, MN |
+| Mar. 2026 | Attendee | ACS-CAN Cancer Research Symposium | Montgomery, AL |
+| Mar. 2026 | Attendee | Montgomery.AI | Montgomery, AL |
+| Nov. 2025 | Presenter | Southern Economic Association | Tampa, FL |
+| Oct. 2025 | Contestant | Magic City Classic Business Pitch Competition | Birmingham, AL |
+| June 2025 | Presenter | Western Economic Association International | San Francisco, CA |
+| May 2025 | Attendee | XR Summit 2025 | Auburn, AL |
+| Nov. 2024 | Presenter | Southern Economic Association | Washington, DC |
+| Oct. 2024 | Presenter | Three-Minute Thesis (3MT) | Auburn, AL |
+| Sept. 2024 | Presenter | Outreach and Engaged Scholarship Symposium | Auburn, AL |
+| Nov. 2023 | Attendee | Southern Economic Association | New Orleans, LA |
