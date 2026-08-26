@@ -13,26 +13,28 @@ My research uses quasi-experimental methods to study how regulatory and insuranc
 <div class="paper-card jmp">
 <span class="jmp-badge">Job Market Paper</span>
 
-**Treatment-Composition Discontinuities at the Medicaid–CHIP Eligibility Threshold: Evidence from Children's Behavioral Health Care**
+**Psychiatric Medication Use at the Medicaid Eligibility Threshold in States with Separate CHIP**
 
-*Sole-authored. Submitted to* American Journal of Health Economics.
+*Sole-authored. Submitted to* Health Economics *(August 2026).*
 
 <div class="paper-meta">
 <span class="paper-tag">Medicaid &amp; CHIP</span>
 <span class="paper-tag">Pediatric Mental Health</span>
 <span class="paper-tag">Regression Discontinuity</span>
+<span class="paper-tag">NSCH</span>
 </div>
 
 <details>
 <summary>Abstract</summary>
 
-First regression-discontinuity evidence on treatment-composition effects at the Medicaid–CHIP income threshold using the National Survey of Children's Health (2016–2024). Crossing the threshold raises children's psychiatric medication use by 29 percentage points without any change in uninsurance, concentrated in anxiety and depression (where therapy is clinical first-line treatment) and absent for isolated ADHD. The effect is traced across three policy regimes: pre-pandemic, FFCRA enrollment freeze, and the federal continuous-eligibility mandate.
+In states operating a separate Children's Health Insurance Program (CHIP), an income threshold separates Medicaid eligibility from CHIP eligibility. Public eligibility continues at that boundary, but coverage terms can change. I estimate local-linear regression discontinuities in past-12-month psychiatric-medication use using the 2016–2019, 2021–2022, and 2024 National Survey of Children's Health. The sample includes all children ages 6–17 in states without a pre-pandemic 12-month Medicaid coverage guarantee. The estimated share using psychiatric medication is 9.7 percentage points higher just above than below the threshold before the pandemic, 16.9 points higher during the federal Medicaid enrollment freeze, and 7.5 points higher in 2024. After adjustment for five outcomes, only the pre-pandemic difference is statistically significant at 5 percent. Before and during the freeze, estimates are larger among children with a current mental, emotional, developmental, or behavioral diagnosis and near zero among those without one. Uninsurance does not change detectably in either period. Program enrollment is unobserved, so the discontinuities are not effects of moving from Medicaid to separate CHIP. Cross-period differences do not identify effects of the enrollment freeze or the 2024 continuous-eligibility mandate.
 
 </details>
 
 <div class="paper-links">
+<a href="/papers/li-medicaid-chip-psychiatric-medication.pdf">Manuscript (PDF)</a>
+<a href="/papers/li-medicaid-chip-psychiatric-medication-supplement.pdf">Supplementary Materials (PDF)</a>
 <a href="/posters/ashecon-2026-poster.pdf">ASHEcon 2026 Poster</a>
-<a href="mailto:zzl0134@auburn.edu">Draft available upon request</a>
 </div>
 
 </div>
@@ -66,7 +68,7 @@ Difference-in-differences, triple-difference, and Poisson DID on Chinese pharmac
 **Adverse Childhood Experiences and Co-occurring Physical–Mental Health Conditions in U.S. Children: Evidence from the National Survey of Children's Health**
 
 *With Sanket Kanekar.*
-*Preparing for submission to* npj Mental Health Research *(Nature Portfolio Call for Papers: Adverse Childhood Experiences).*
+*Preparing for submission to* Nature Mental Health *(Nature Portfolio Call for Papers: Adverse Childhood Experiences).*
 
 <div class="paper-meta">
 <span class="paper-tag">Adverse Childhood Experiences</span>
@@ -133,6 +135,11 @@ Children with four or more ACEs show a nearly tenfold elevation in co-occurring 
 ## Conference and Seminar Experience
 
 <div class="conf-timeline">
+<div class="conf-item conf-item--presenter">
+<span class="conf-date">Nov. 2026</span>
+<span class="conf-body"><span class="conf-name">Southern Economic Association Meeting</span><span class="conf-venue">Houston, TX</span></span>
+<span class="conf-role conf-role--presenter">Presenter (upcoming)</span>
+</div>
 <div class="conf-item">
 <span class="conf-date">July 2026</span>
 <span class="conf-body"><span class="conf-name">Alabama Higher Education AI Exchange: Classroom to Career</span><span class="conf-venue">Auburn University &middot; Auburn, AL</span></span>
