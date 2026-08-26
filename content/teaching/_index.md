@@ -62,7 +62,7 @@ As part of the Biggio Center Summer 2024 Course (Re)Design Program, I built a fr
 
 ### ECON 2020: Principles of Microeconomics
 - **Semesters:** Fall 2023, Spring 2025, Summer 2026
-- **Evaluations:** Improved from 4.37/6.0 to 5.33/6.0
+- **Evaluations:** Improved from 4.37/6.0 (Fall 2023) to 5.33/6.0 (Spring 2025) and 5.30/6.0 (Summer 2026)
 - Full course responsibility: curriculum design, syllabus development, assessment, and grading (AACSB accredited)
 
 ### ECON 2030: Principles of Macroeconomics
@@ -84,7 +84,8 @@ As part of the Biggio Center Summer 2024 Course (Re)Design Program, I built a fr
 - Individually guide each student through their research thesis
 
 ### ECON 2020 & ECON 2030 (Fall 2021 – Summer 2025)
-- Principles of Microeconomics and Macroeconomics
+- **ECON 2020** (Principles of Microeconomics): Fall 2021, Spring 2022, Fall 2022, Summer 2025
+- **ECON 2030** (Principles of Macroeconomics): Fall 2021, Spring 2022, Fall 2022
 
 ## Teaching Assistant — Konkuk University (2018–2020)
 - Environmental Economics, Microeconomics, Macroeconomics, History of Economic Thought
@@ -97,14 +98,15 @@ As part of the Biggio Center Summer 2024 Course (Re)Design Program, I built a fr
 | ECON 2020 | Fall 2023 | Instructor | 4.37/6.0 |
 | ECON 2030 | Spring 2024 | Instructor | 5.21/6.0 |
 | ECON 2020 | Spring 2025 | Instructor | 5.33/6.0 |
+| ECON 2020 | Summer 2026 | Instructor | 5.30/6.0 |
 | ECON 4600 | Fall 2024 | TA | 5.39/6.0 |
 | ECON 4600 | Fall 2025 | TA | 5.86/6.0 |
 
 ## Courses Prepared to Teach
 
-**Undergraduate:** Principles of Microeconomics, Principles of Macroeconomics, Econometrics, Business Statistics, Industrial Organization, Health Economics, Big Data Analysis, Corporate Finance, Financial Markets and Institutions, Managerial Finance, Investments
+**Undergraduate:** Principles of Microeconomics, Principles of Macroeconomics, Econometrics, Business Statistics, Data Analytics, Industrial Organization, Health Economics, Big Data Analysis
 
-**Graduate:** Applied Microeconometrics, Econometrics, Health Economics, Business Statistics, Industrial Organization, Financial Economics, Risk Analysis
+**Graduate:** Applied Microeconometrics, Econometrics, Health Economics, Business Statistics, Industrial Organization, Risk Analysis
 
 ## Educational Tools
 
