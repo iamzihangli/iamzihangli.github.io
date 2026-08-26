@@ -68,7 +68,7 @@ Difference-in-differences, triple-difference, and Poisson DID on Chinese pharmac
 **Adverse Childhood Experiences and Co-occurring Physical–Mental Health Conditions in U.S. Children: Evidence from the National Survey of Children's Health**
 
 *With Sanket Kanekar.*
-*Preparing for submission to* Nature Mental Health *(Nature Portfolio Call for Papers: Adverse Childhood Experiences).*
+*Preparing for submission to* Nature Mental Health.
 
 <div class="paper-meta">
 <span class="paper-tag">Adverse Childhood Experiences</span>
@@ -117,13 +117,14 @@ Children with four or more ACEs show a nearly tenfold elevation in co-occurring 
 
 <div class="paper-card">
 
-**NSF HBCU-EiR** — Submitted, decision pending
+**NSF HBCU-EiR** — Submitted; not funded
 *Proposal ID: 2602827 · Budget: \$1,261,433*
 
 "Economic Evaluation of AI-Powered Virtual Reality Wellness Platforms: Enhancing Accessibility, Engagement, and Cost-Effectiveness in Mental Health Support"
 
 - **PI:** Dr. Sanket Kanekar (Alabama State University)
 - **Co-PIs:** Dr. Kimberly B. Garza, Dr. Travis C. Evans (Auburn University)
+- **Status:** Reviewers rated the proposal favorably and encouraged a resubmission; the team is revising the project for submission to NIH/NIMH.
 - **Role:** Graduate Research Lead — Led proposal writing, budget development, RCT study design, and built the minimum viable product (VR environment + AI/LLM training pipeline).
 
 **Open release (coming soon):** The minimum viable product will be released free and open-source on [GitHub](https://github.com/iamzihangli) and [Hugging Face](https://huggingface.co/). I welcome anyone to try it out and share feedback — early input from educators, clinicians, and students will directly shape the next iteration.
