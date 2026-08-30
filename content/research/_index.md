@@ -27,7 +27,7 @@ My research uses quasi-experimental methods to study how regulatory and insuranc
 <details>
 <summary>Abstract</summary>
 
-In states operating a separate Children's Health Insurance Program (CHIP), an income threshold separates Medicaid eligibility from CHIP eligibility. Public eligibility continues at that boundary, but coverage terms can change. I estimate local-linear regression discontinuities in past-12-month psychiatric-medication use using the 2016–2019, 2021–2022, and 2024 National Survey of Children's Health. The sample includes all children ages 6–17 in states without a pre-pandemic 12-month Medicaid coverage guarantee. The estimated share using psychiatric medication is 9.7 percentage points higher just above than below the threshold before the pandemic, 16.9 points higher during the federal Medicaid enrollment freeze, and 7.5 points higher in 2024. After adjustment for five outcomes, only the pre-pandemic difference is statistically significant at 5 percent. Before and during the freeze, estimates are larger among children with a current mental, emotional, developmental, or behavioral diagnosis and near zero among those without one. Uninsurance does not change detectably in either period. Program enrollment is unobserved, so the discontinuities are not effects of moving from Medicaid to separate CHIP. Cross-period differences do not identify effects of the enrollment freeze or the 2024 continuous-eligibility mandate.
+In states operating a separate Children's Health Insurance Program (CHIP), an income threshold separates Medicaid eligibility from CHIP eligibility. Public eligibility continues at that boundary, but benefit rules, provider networks, and prior authorization can change. I estimate local-linear regression discontinuities in past-12-month psychiatric-medication use using the 2016–2019, 2021–2022, and 2024 National Survey of Children's Health. The estimated share using psychiatric medication is 9.7 percentage points higher just above the threshold than just below it before the pandemic, 16.9 points higher during the federal Medicaid enrollment freeze, and 7.5 points higher in 2024. This within-public-insurance cutoff has been overlooked because children remain publicly eligible on both sides. The paper is the first to use the Medicaid-to-separate-CHIP boundary to study children's psychiatric-medication use across three federal enrollment regimes, shifting attention from whether children remain insured to whether program design preserves continuity in behavioral-health care.
 
 </details>
 
@@ -57,9 +57,35 @@ In states operating a separate Children's Health Insurance Program (CHIP), an in
 <details>
 <summary>Abstract</summary>
 
-Difference-in-differences, triple-difference, and Poisson DID on Chinese pharmaceutical patent data (2015–2021). We identify significant positive effects of the 2016 MAH deregulation on patent authorizations, backward citations, and patent claims for non-Traditional Chinese Medicine companies, with no significant effects for TCM firms.
+Using difference-in-differences, triple-difference, and Poisson DID on Chinese pharmaceutical patent data from 2015–2021, we find that the 2016 MAH reform increased patent authorizations, backward citations, and patent claims among non-Traditional Chinese Medicine companies, with no significant effects for TCM firms. By separating drug marketing rights from manufacturing, the reform provides evidence on how regulatory design shapes heterogeneous innovation responses in an emerging pharmaceutical market.
 
 </details>
+
+</div>
+
+<div class="paper-card">
+
+**Strategic Patent Listing and Generic Challenge in China's Drug Patent-Linkage Register**
+
+*Sole-authored working paper.*
+
+<div class="paper-meta">
+<span class="paper-tag">Pharmaceutical Innovation</span>
+<span class="paper-tag">Patent Linkage</span>
+<span class="paper-tag">Generic Entry</span>
+<span class="paper-tag">China</span>
+</div>
+
+<details>
+<summary>Abstract</summary>
+
+China's 2021 patent-linkage reform created the first multi-class register covering chemical drugs, biologics, and traditional Chinese medicines. Using a complete, dated census of the register from its launch, I document quality-selective listing and a thin compound-patent backbone. Listed chemical patents have 3.7 times the family citations of comparable unlisted patents, yet 45 percent of listed chemical products lack a live compound patent and secondary patents outlive compound patents by a median five years. Generic challenges arrive about ten months after listing and disproportionately target compound-free products and foreign originators. The evidence shows that the static features familiar from the U.S. Orange Book—selective listing and quality-sorted challenge—emerged within five years under China's newer system despite its weaker reward for successful challenges.
+
+</details>
+
+<div class="paper-links">
+<a href="/papers/li-china-patent-linkage.pdf">Manuscript (PDF)</a>
+</div>
 
 </div>
 
@@ -96,12 +122,6 @@ Children with four or more ACEs show a nearly tenfold elevation in co-occurring 
 
 <div class="paper-card">
 
-**Reducing Litigation Risk and Pharmaceutical Firms' Investment Decisions: Evidence from China's Drug Patent Linkage System**
-
-</div>
-
-<div class="paper-card">
-
 **Food Deserts and Health Outcomes: Evidence from HCUP, 2012–2022**
 *With Ruchika Rungta.*
 
@@ -110,6 +130,22 @@ Children with four or more ACEs show a nearly tenfold elevation in co-occurring 
 <div class="paper-card">
 
 **Classifying Product versus Process Innovation in Chinese Pharmaceutical and Medical Device Patents: A Novel PatentBERT–LLM Methodology**
+
+</div>
+
+<div class="paper-card">
+
+**Hiring at the Floor: The H-1B Program and the Wages of Foreign-Born Allied-Health Workers**
+
+*With Sanket Kanekar.*
+
+</div>
+
+<div class="paper-card">
+
+**Rationing by Lottery and the Economics of Gaming: Multiple Registration in the H-1B Visa Program, FY2021–FY2024**
+
+*With Sanket Kanekar.*
 
 </div>
 
