@@ -10,4 +10,4 @@ summary: "Download Zihang Li's CV."
   <iframe src="/cv/cv.pdf" width="100%" height="850px" title="Zihang Li curriculum vitae PDF"></iframe>
 </div>
 
-*Last updated: August 2026*
+*Last updated: September 2026*

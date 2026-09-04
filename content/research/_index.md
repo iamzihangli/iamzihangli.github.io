@@ -15,7 +15,7 @@ My research uses quasi-experimental methods to study how regulatory and insuranc
 
 **Psychiatric Medication Use at the Medicaid Eligibility Threshold in States with Separate CHIP**
 
-*Sole-authored. Submitted to* Health Economics *(August 2026).*
+*Sole-authored.* Under review at *Health Economics* (submitted August 2026).
 
 <div class="paper-meta">
 <span class="paper-tag">Medicaid &amp; CHIP</span>
