@@ -84,7 +84,7 @@ China's 2021 patent-linkage reform created the first multi-class register coveri
 </details>
 
 <div class="paper-links">
-<a href="/papers/li-china-patent-linkage.pdf">Manuscript (PDF)</a>
+<a href="mailto:zzl0134@auburn.edu">Draft available upon request</a>
 </div>
 
 </div>
