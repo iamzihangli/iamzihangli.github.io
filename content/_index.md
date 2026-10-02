@@ -5,7 +5,7 @@ layout: "home"
 
 ## About
 
-I am a PhD candidate in Applied Economics at Auburn University, graduating in **August 2027**. My research uses quasi-experimental methods---regression discontinuity, difference-in-differences, triple-difference, Poisson DID, and machine learning---to study how regulatory and insurance-design choices shape **firm-level innovation** and **household treatment decisions**.
+I am a PhD candidate (ABD) in Applied Economics at Auburn University, expected to complete my PhD in **July 2027** and available from **May 2027**. My research uses quasi-experimental methods---regression discontinuity, difference-in-differences, triple-difference, Poisson DID, and machine learning---to study how regulatory and insurance-design choices shape **firm-level innovation** and **household treatment decisions**.
 
 My work spans health economics, industrial organization, and applied microeconomics, with a particular interest in how policy thresholds reshape pediatric mental health care and how pharmaceutical deregulation affects innovation in emerging markets.
 

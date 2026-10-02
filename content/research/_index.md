@@ -65,7 +65,7 @@ Using difference-in-differences, triple-difference, and Poisson DID on Chinese p
 
 <div class="paper-card">
 
-**Strategic Patent Listing and Generic Challenge in China's Drug Patent-Linkage Register**
+**A Challenger Reward That Almost Never Pays: Patent Declarations, Invalidation, and Procurement under China's Drug Patent Linkage System, 2021–2026**
 
 *Sole-authored working paper.*
 
@@ -79,7 +79,7 @@ Using difference-in-differences, triple-difference, and Poisson DID on Chinese p
 <details>
 <summary>Abstract</summary>
 
-China's 2021 patent-linkage reform created the first multi-class register covering chemical drugs, biologics, and traditional Chinese medicines. Using a complete, dated census of the register from its launch, I document quality-selective listing and a thin compound-patent backbone. Listed chemical patents have 3.7 times the family citations of comparable unlisted patents, yet 45 percent of listed chemical products lack a live compound patent and secondary patents outlive compound patents by a median five years. Generic challenges arrive about ten months after listing and disproportionately target compound-free products and foreign originators. The evidence shows that the static features familiar from the U.S. Orange Book—selective listing and quality-sorted challenge—emerged within five years under China's newer system despite its weaker reward for successful challenges.
+Uses all 23,129 patent positions on China's national drug patent declaration platform, CNIPA invalidation decisions, and volume-based procurement (VBP) rules to describe how the 2021 linkage system's challenger reward works in practice. The reward—up to twelve months of exclusivity for the first approved generic whose own invalidation request succeeds—had been publicly awarded twice as of September 2026, both times to one firm group, although declarants won whole invalidations of 16 declared patents. Most contesting instead asserts non-infringement against later-expiring formulation patents, a route the reward does not cover: in 99.4% of within-application comparisons, that assertion falls on the longer-lived patent. Because VBP rules count non-infringement undertakings, the patent statements with direct consequences for sales are procurement undertakings. All results are descriptive.
 
 </details>
 
@@ -93,8 +93,7 @@ China's 2021 patent-linkage reform created the first multi-class register coveri
 
 **Adverse Childhood Experiences and Co-occurring Physical–Mental Health Conditions in U.S. Children: Evidence from the National Survey of Children's Health**
 
-*With Sanket Kanekar.*
-*Preparing for submission to* Nature Mental Health.
+*With Sanket Kanekar. Working paper.*
 
 <div class="paper-meta">
 <span class="paper-tag">Adverse Childhood Experiences</span>

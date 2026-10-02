@@ -6,11 +6,11 @@ ShowToc: true
 TocOpen: true
 ---
 
-My teaching centers on making economics accessible through active learning, removing financial barriers for students, and preparing them for data-driven careers. My teaching evaluations improved 34% across core metrics from my first to most recent semester.
+My teaching centers on making economics accessible through active learning, removing financial barriers for students, and preparing them for data-driven careers. My overall rating in principles courses rose from 4.37/6.0 in my first independently taught course to between 5.03 and 5.33 in every course since.
 
 ## Continuous Improvement
 
-Each semester I introduce a concrete change to lower barriers to learning and replace passive lectures with hands-on tools. The cumulative effect is reflected in the steadily rising teaching evaluations below.
+Each semester I introduce a concrete change to lower barriers to learning and replace passive lectures with hands-on tools. The teaching evaluations below show how these changes have played out.
 
 ### Summer 2026 — Tulip Bulb Investment Game v2
 Released a major rewrite of the [Tulip Bulb Investment Game](/resources/#tulip-bulb-investment-game). V2 adds five historical bubble scenarios (Tulip Mania, South Sea Bubble, Florida Land Boom, Dot-com Bubble, Crypto Mania), full Buy / Sell / Hold trading with quantities, an inflation-adjusted Future-Value vs Present-Value breakdown, and a closing reflection that connects the simulation to today's AI valuations.
@@ -67,7 +67,7 @@ As part of the Biggio Center Summer 2024 Course (Re)Design Program, I built a fr
 
 ### ECON 2030: Principles of Macroeconomics
 - **Semesters:** Spring 2024, Spring 2026
-- **Evaluations:** 5.21/6.0
+- **Evaluations:** 5.21/6.0 (Spring 2024) and 5.03/6.0 (Spring 2026)
 
 ## Module Instructor — Auburn University
 
@@ -87,9 +87,14 @@ As part of the Biggio Center Summer 2024 Course (Re)Design Program, I built a fr
 - **ECON 2020** (Principles of Microeconomics): Fall 2021, Spring 2022, Fall 2022, Summer 2025
 - **ECON 2030** (Principles of Macroeconomics): Fall 2021, Spring 2022, Fall 2022
 
+### Principles Office-Hour Team (Fall 2026)
+- Joined the coordinated office-hour team for a multi-section principles sequence serving approximately 1,800 students
+- Help newer TAs prepare for common student questions
+
 ## Teaching Assistant — Konkuk University (2018–2020)
 - Environmental Economics, Microeconomics, Macroeconomics, History of Economic Thought
 - Prepared course materials and graded assignments for 200+ students
+- **Graduate Mentor**, Research for Undergraduate Study program (Fall 2019)
 
 ## Teaching Evaluations
 
@@ -98,6 +103,7 @@ As part of the Biggio Center Summer 2024 Course (Re)Design Program, I built a fr
 | ECON 2020 | Fall 2023 | Instructor | 4.37/6.0 |
 | ECON 2030 | Spring 2024 | Instructor | 5.21/6.0 |
 | ECON 2020 | Spring 2025 | Instructor | 5.33/6.0 |
+| ECON 2030 | Spring 2026 | Instructor | 5.03/6.0 |
 | ECON 2020 | Summer 2026 | Instructor | 5.30/6.0 |
 | ECON 4600 | Fall 2024 | TA | 5.39/6.0 |
 | ECON 4600 | Fall 2025 | TA | 5.86/6.0 |
