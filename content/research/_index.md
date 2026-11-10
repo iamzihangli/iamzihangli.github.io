@@ -13,9 +13,9 @@ My research uses quasi-experimental methods to study how regulatory and insuranc
 <div class="paper-card jmp">
 <span class="jmp-badge">Job Market Paper</span>
 
-**Psychiatric Medication Use at the Medicaid Eligibility Threshold in States with Separate CHIP**
+**Should an Eligibility Rule Decide a Child's Mental Health Treatment? Medication Rises at the Line between Medicaid and Separate CHIP**
 
-*Sole-authored.* Under review at *Health Economics* (submitted August 2026).
+*Sole-authored.* Submitted to the *Journal of Policy Analysis and Management*.
 
 <div class="paper-meta">
 <span class="paper-tag">Medicaid &amp; CHIP</span>
@@ -27,13 +27,13 @@ My research uses quasi-experimental methods to study how regulatory and insuranc
 <details>
 <summary>Abstract</summary>
 
-In states operating a separate Children's Health Insurance Program (CHIP), an income threshold separates Medicaid eligibility from CHIP eligibility. Public eligibility continues at that boundary, but benefit rules, provider networks, and prior authorization can change. I estimate local-linear regression discontinuities in past-12-month psychiatric-medication use using the 2016–2019, 2021–2022, and 2024 National Survey of Children's Health. The estimated share using psychiatric medication is 9.7 percentage points higher just above the threshold than just below it before the pandemic, 16.9 points higher during the federal Medicaid enrollment freeze, and 7.5 points higher in 2024. This within-public-insurance cutoff has been overlooked because children remain publicly eligible on both sides. The paper is the first to use the Medicaid-to-separate-CHIP boundary to study children's psychiatric-medication use across three federal enrollment regimes, shifting attention from whether children remain insured to whether program design preserves continuity in behavioral-health care.
+In sixteen states, one income line decides whether a child qualifies for Medicaid or for a separate Children's Health Insurance Program (CHIP), two public programs whose costs, plans and rules can differ. This paper applies a regression discontinuity design at that line to children ages 6 to 17 in the National Survey of Children's Health for 2016 to 2019. The estimates compare children by the program they qualify for, not the program they are in. At the line, the uninsured, public-coverage and private-coverage shares show no significant change, yet medication use rises. Just above the line, the share who took medication for emotions, concentration or behavior in the past year is 5.6 percentage points higher, rising from 8.2 to 13.8 percent. Any counseling and any mental-health care, which counts medication, counseling or both, show no significant change, so the added medication goes mostly to children already in care and treatment composition shifts toward medication. The rise comes from children with a mental, emotional, developmental or behavioral condition. Among children without one, medication shows no significant change. Among children with one, medication use rises in the therapy-recommended group and shows no significant change in the medication-recommended group. This paper reads the rise as a break in the continuity of treatment. A change in eligibility is likely to change a child's program, and a prescription carries over more easily than a relationship with one therapist. The survey does not record a child's program or follow children over time, so it cannot show which program difference produces the break. The line began as a limit on federal payments to states or as a state's own earlier eligibility limit, and no rule behind it refers to children's needs. Such a line should not decide how a child's condition is treated.
 
 </details>
 
 <div class="paper-links">
 <a href="/papers/li-medicaid-chip-psychiatric-medication.pdf">Manuscript (PDF)</a>
-<a href="/papers/li-medicaid-chip-psychiatric-medication-supplement.pdf">Supplementary Materials (PDF)</a>
+<a href="/papers/li-medicaid-chip-psychiatric-medication-supplement.pdf">Online Appendix (PDF)</a>
 <a href="/posters/ashecon-2026-poster.pdf">ASHEcon 2026 Poster</a>
 </div>
 
@@ -43,7 +43,7 @@ In states operating a separate Children's Health Insurance Program (CHIP), an in
 
 <div class="paper-card">
 
-**Market Authorization Holder (MAH) Pilot Program and Innovation Investment in China's Pharmaceutical Industry**
+**Marketing Authorization Holder (MAH) Pilot Program and Innovation in China's Pharmaceutical Industry**
 
 *With Tannista Banerjee, Aditi Sengupta, and Shan He. First and corresponding author.*
 *Preparing for submission to* International Journal of Industrial Organization.
