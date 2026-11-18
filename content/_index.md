@@ -13,7 +13,7 @@ I will be on the **2026--2027 academic job market**.
 
 ## Recent News
 
-- **Nov. 2026** --- Job market paper, "Should an Eligibility Rule Decide a Child's Mental Health Treatment?", submitted to the *Journal of Policy Analysis and Management* ([manuscript](/papers/li-medicaid-chip-psychiatric-medication.pdf)).
+- **Nov. 2026** --- Job market paper, "Should an Eligibility Rule Decide a Child's Mental Health Treatment?", under review at the *Journal of Policy Analysis and Management* ([manuscript](/papers/li-medicaid-chip-psychiatric-medication.pdf)).
 - **Nov. 2026** --- Will present at the Southern Economic Association meeting in Houston, TX.
 - **July 2026** --- Presented at [WEAI](https://weai.org/) in Denver, CO.
 - **June 2026** --- Presented job market paper at [ASHEcon](https://ashecon.org/) in Minneapolis, MN ([poster](/posters/ashecon-2026-poster.pdf)).

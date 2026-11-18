@@ -15,7 +15,7 @@ My research uses quasi-experimental methods to study how regulatory and insuranc
 
 **Should an Eligibility Rule Decide a Child's Mental Health Treatment? Medication Rises at the Line between Medicaid and Separate CHIP**
 
-*Sole-authored.* Submitted to the *Journal of Policy Analysis and Management*.
+*Sole-authored.* Under review at the *Journal of Policy Analysis and Management*.
 
 <div class="paper-meta">
 <span class="paper-tag">Medicaid &amp; CHIP</span>
